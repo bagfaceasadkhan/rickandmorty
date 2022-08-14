@@ -1,4 +1,5 @@
 <h1>Rick and Morty Web app</h1>
+<h3>DEMO : <a href="https://rickandmortyakcodes.herokuapp.com/">https://rickandmortyakcodes.herokuapp.com/</a></h3>
 <ul>
 <li>React</li>
 <li>Redux</li>
